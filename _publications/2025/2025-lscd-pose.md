@@ -6,7 +6,7 @@ pub:            "Sensors"
 pub_date:       "2025"
 abstract: >-
   A feature point detection model designed for collaborative perception systems in airport environments.
-cover:          /assets/images/covers/lscd-pose.jpg
+cover:          /assets/images/covers/lscd-pose.jpeg
 authors:
   - R Meng
   - Jinlei Wang
