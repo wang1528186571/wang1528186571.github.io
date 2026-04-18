@@ -6,7 +6,7 @@ pub:            "Expert Systems with Applications"
 pub_date:       "2026"
 abstract: >-
   A physical adversarial patch generation framework for evaluating the security of object detection systems in real-world scenarios.
-cover:          /assets/images/covers/advreal.jpg
+cover:          /assets/images/covers/advreal.png
 authors:
   - Y Huang
   - Y Ren

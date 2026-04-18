@@ -6,7 +6,7 @@ pub:            "Electronics"
 pub_date:       "2024"
 abstract: >-
   An improved YOLOv7-Tiny model for vehicle and pedestrian detection in intelligent transportation systems.
-cover:          /assets/images/covers/vehicle-pedestrian.jpg
+cover:          /assets/images/covers/vehicle-pedestrian.png
 authors:
   - Z Liang
   - W Wang

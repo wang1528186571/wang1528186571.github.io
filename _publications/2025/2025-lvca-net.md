@@ -6,7 +6,7 @@ pub:            "Sensors"
 pub_date:       "2025"
 abstract: >-
   A lightweight LiDAR semantic segmentation network for autonomous transportation systems with advanced sensor-based perception.
-cover:          /assets/images/covers/lvca-net.jpg
+cover:          /assets/images/covers/lvca-net.jpeg
 authors:
   - Y Gong
   - Y Huang

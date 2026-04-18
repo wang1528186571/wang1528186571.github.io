@@ -6,7 +6,7 @@ pub:            "Journal of Physics: Conference Series"
 pub_date:       "2024"
 abstract: >-
   A Foreign Object Debris (FOD) detection model for airport runways based on improved YOLOv10m.
-cover:          /assets/images/covers/fod-detection.jpg
+cover:          /assets/images/covers/fod-detection.png
 authors:
   - Jinlei Wang
   - R Meng

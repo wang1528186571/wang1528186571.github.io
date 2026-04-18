@@ -6,7 +6,7 @@ pub:            "Scientific Reports"
 pub_date:       "2024"
 abstract: >-
   This paper proposes an improved YOLOv8s model for road defect detection, achieving better performance in detecting various types of road damages.
-cover:          /assets/images/covers/road-defect.jpg
+cover:          /assets/images/covers/road-defect.png
 authors:
   - Jinlei Wang
   - R Meng

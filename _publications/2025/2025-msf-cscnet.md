@@ -6,7 +6,7 @@ pub:            "The Journal of Supercomputing"
 pub_date:       "2025"
 abstract: >-
   A 3D semantic segmentation network for urban point clouds with multi-scale fusion and context-aware channel modeling, designed for supercomputing environments.
-cover:          /assets/images/covers/msf-cscnet.jpg
+cover:          /assets/images/covers/msf-cscnet.png
 authors:
   - Y Bai
   - Y Gong

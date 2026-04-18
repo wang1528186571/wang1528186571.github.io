@@ -6,7 +6,7 @@ pub:            "Journal of Intelligent and Connected Vehicles"
 pub_date:       "2025"
 abstract: >-
   A covert adversarial attack method against autonomous driving perception systems using GLOW-based techniques.
-cover:          /assets/images/covers/advglow.jpg
+cover:          /assets/images/covers/advglow.png
 authors:
   - X Bai
   - P Dong
