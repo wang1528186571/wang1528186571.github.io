@@ -1,6 +1,6 @@
 ---
 title:          "LVCA-Net: Lightweight LiDAR Semantic Segmentation for Advanced Sensor-Based Perception in Autonomous Transportation Systems"
-date:           2025-01-01 00:01:00 +0800
+date:           2025-01-02 00:01:00 +0800
 selected:       false
 pub:            "Sensors"
 pub_date:       "2025"
