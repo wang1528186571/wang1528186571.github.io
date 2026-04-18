@@ -11,23 +11,24 @@ positions:
 email: "20231800822@imut.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: 349_59cAAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+# github: your_github_id
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
 # linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+orcid: 0009-0003-6869-1362
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+      My current research centers on adversarial patches and textures across both digital and physical domains. Specifically, I explore how these vulnerabilities apply to complex, real-world scenarios, 
+      with a strong emphasis on autonomous driving and drone-based vision systems.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+      My research group is actively seeking highly motivated interns with a background or strong interest in computer vision and 3D reconstruction. 
+      If you are passionate about this line of work, I encourage you to reach out. Furthermore, 
+      candidates who demonstrate exceptional performance during their internship will be strongly considered for a transition into our Ph.D. program.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -57,9 +58,7 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
-- name: Award Name 2
+- name: 2025 National Graduate Scholarship
+  date: 2025
+- name: 2024 National Graduate Scholarship 
   date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
