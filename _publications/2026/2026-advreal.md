@@ -16,5 +16,5 @@ authors:
   - J Zhang
   - H Yu
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S0957417424025223
+  Paper: https://doi.org/10.1016/j.eswa.2025.128967
 ---

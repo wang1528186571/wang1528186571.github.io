@@ -13,5 +13,5 @@ authors:
   - Jinlei Wang
   - F Wei
 links:
-  Paper: https://link.springer.com/article/10.1007/s11227-025-06600-0
+  Paper: https://link.springer.com/article/10.1007/s11227-025-07672-2
 ---

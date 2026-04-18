@@ -15,5 +15,5 @@ authors:
   - H Yu
   - Y Ren
 links:
-  Paper: https://www.sciencedirect.com/journal/journal-of-intelligent-and-connected-vehicles
+  Paper: https://ieeexplore.ieee.org/abstract/document/11319353/
 ---

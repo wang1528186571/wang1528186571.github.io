@@ -16,5 +16,5 @@ authors:
   - Z Qiao
   - C Niu
 links:
-  Paper: https://www.nature.com/articles/s41598-024-67358-5
+  Paper: https://www.nature.com/articles/s41598-024-67953-3
 ---
