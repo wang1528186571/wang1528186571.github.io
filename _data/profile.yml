@@ -1,16 +1,16 @@
-primary_name: "Your Name"
+primary_name: "Jinlei Wang"
 secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
+- name: PhD
+- name: SUN YAT-SEN UNIVERSITY
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "20231800822@imut.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: 34959cAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
@@ -35,16 +35,21 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: Sun Yat-Sen University
+  logo: /assets/images/badges/SYS.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
+    School of Systems Science and Engineering <br/>
     Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+  date: Sep. 2026 - present
+- name: Beihang University
+  logo: /assets/images/badges/Buaa.png
+  position: Joint Master
+  date: Sep. 2024 - Jul. 2025
+
+- name: Inner Mongolia University of Technology
+  logo: /assets/images/badges/IMUT.png
+  position: B.S. in Transportation
+  date: Sep. 2023 - Jul. 2026
 
 # experience:
 # - name: Peking University
