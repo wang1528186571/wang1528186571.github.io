@@ -1,6 +1,6 @@
 ---
 title:          "AdvReal: Physical adversarial patch generation framework for security evaluation of object detection systems"
-date:           2026-01-01 00:01:00 +0800
+date:           2026-01-02 00:01:00 +0800
 selected:       true
 pub:            "Expert Systems with Applications"
 pub_date:       "2026"
