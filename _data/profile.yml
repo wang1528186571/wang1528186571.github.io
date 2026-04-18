@@ -3,14 +3,14 @@ secondary_name: ""
 navbar_name: "Your Name"
 
 positions:
-- name: PhD
-- name: SUN YAT-SEN UNIVERSITY
+- name: Ph.D.
+- name: Sun Yat-Sen University
   logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 
 
 email: "20231800822@imut.edu.cn"
 # cv_link: link-to-your-cv-file
-gscholar: 34959cAAAAJ  # This is an example, replace it with your own Google Scholar ID
+gscholar: 349_59cAAAAJ  # This is an example, replace it with your own Google Scholar ID
 github: your_github_id
 twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
